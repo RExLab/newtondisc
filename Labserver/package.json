@@ -1,7 +1,7 @@
 {
     "name": "newtondisc_app",
     "version": "0.0.1",
-    "description": "Node.js server for eletric panel experiment (REXLAB)",
+    "description": "Node.js server for newton disc experiment (REXLAB)",
     "main": "app.js",
     "private": false,
     "dependencies": {
@@ -21,8 +21,7 @@
     },
     "gypfile": true,
     "keywords": [
-        "ac",
-        "panel",
+        "newton",
         "remote",
         "lab",
         "rexlab"
