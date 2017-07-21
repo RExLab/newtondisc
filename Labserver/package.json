@@ -1,5 +1,5 @@
 {
-    "name": "dc_app",
+    "name": "newtondisc_app",
     "version": "0.0.1",
     "description": "Node.js server for eletric panel experiment (REXLAB)",
     "main": "app.js",
